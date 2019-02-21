@@ -11,3 +11,6 @@ dev
 feature
 
 dev+2
+
+feature 002 +1
+feature/feature-002
